@@ -3,7 +3,7 @@
 Production Reliability Engineer Intern (Rus) <br>
 
 #### OPERATING SYSTEMS, NETWORK TECHNOLOGIES, LOGICAL TASK <br>
-Ответы на задания:   <br><br>
+Ответы на задания: https://github.com/SparklingAcidity/DINS_test/blob/main/theoretical_tasks.pdf <br><br>
 
 
 #### PRACTICAL TASKS <br>
