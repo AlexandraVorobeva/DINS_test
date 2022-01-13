@@ -1,12 +1,12 @@
 # DINS_test
-# Тестовое задание для DINS <br>
+# Тестовое задание для DINS
 Production Reliability Engineer Intern (Rus) <br>
 
 #### OPERATING SYSTEMS, NETWORK TECHNOLOGIES, LOGICAL TASK <br>
 Ответы на задания: https://github.com/SparklingAcidity/DINS_test/blob/main/theoretical_tasks.pdf <br><br>
 
 
-#### PRACTICAL TASKS <br>
+#### PRACTICAL TASKS
 Ответ на задание UNIX SHELL SKILLS: <br>
 Part 1 (20 IP адресов хостов, которые сканировали порты вашего сервера наиболее часто в период времени с 09:00 утра 6-го апреля и до 09:00 утра 7-го апреля): 
 https://github.com/SparklingAcidity/DINS_test/blob/main/Unix_shell_skills.py <br>
@@ -17,7 +17,7 @@ Part 2 (20 локальных портов вашего сервера, кото
 Run: <br>
 $ python Unix_shell_skills_ports.py
 <br><br>
-#### PROGRAMMING SKILLS <br>
+#### PROGRAMMING SKILLS
 https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
 
 Create virtualenv:<br>
