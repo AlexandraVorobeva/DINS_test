@@ -18,6 +18,7 @@ Run: <br>
 $ python Unix_shell_skills_ports.py
 <br><br>
 #### PROGRAMMING SKILLS
+Язык разработки: Python 3
 https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
 
 Create virtualenv:<br>
