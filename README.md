@@ -27,6 +27,7 @@ $ source venv/bin/activate<br>
 
 Dependency:<br>
 $ pip install -r requirements.txt<br>
+(файл с зависимосей https://github.com/SparklingAcidity/DINS_test/blob/main/requirements.txt )
 
 Run: <br>
 python Programming_skills.py
