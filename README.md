@@ -16,7 +16,7 @@ Part 2 (20 локальных портов вашего сервера, кото
 https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
 
 Create virtualenv:<br>
-$ virtualenv venv<br>
+$ python3 -m venv venv<br>
 $ source venv/bin/activate<br>
 
 Dependency:<br>
