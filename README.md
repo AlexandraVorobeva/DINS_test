@@ -13,4 +13,13 @@ https://github.com/SparklingAcidity/DINS_test/blob/main/Unix_shell_skills.py <br
 Part 2 (20 локальных портов вашего сервера, которые подвергаются сканированию извне наиболее часто): https://github.com/SparklingAcidity/DINS_test/blob/main/Unix_shell_skill_ports.py <br><br>
 
 #### PROGRAMMING SKILLS <br>
-https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
+Create virtualenv:<br>
+$ virtualenv venv<br>
+$ source venv/bin/activate<br><br>
+
+Dependency:<br>
+$ pip install -r requirements.txt<br><br>
+
+Run: <br>
+python Programming_skills.py
+
