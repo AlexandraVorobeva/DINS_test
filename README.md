@@ -21,6 +21,11 @@ $ python Unix_shell_skills_ports.py
 Язык разработки: Python 3 <br>
 https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
 
+### Clone the repo:<br>
+
+$ git clone https://github.com/SparklingAcidity/DINS_test <br>
+$ cd DINS_test <br>
+
 Create virtualenv:<br>
 $ python3 -m venv venv<br>
 $ source venv/bin/activate<br>
@@ -30,5 +35,5 @@ $ pip install -r requirements.txt<br>
 (файл с зависимосей https://github.com/SparklingAcidity/DINS_test/blob/main/requirements.txt )
 
 Run: <br>
-python Programming_skills.py
+$ python Programming_skills.py
 
