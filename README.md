@@ -21,8 +21,7 @@ $ python Unix_shell_skills_ports.py
 Язык разработки: Python 3 <br>
 https://github.com/SparklingAcidity/DINS_test/blob/main/Programming_skills.py
 
-### Clone the repo:<br>
-
+Clone the repo:<br>
 $ git clone https://github.com/SparklingAcidity/DINS_test <br>
 $ cd DINS_test <br>
 
