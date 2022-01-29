@@ -1,6 +1,6 @@
 # DINS_test
 # Тестовое задание для DINS
-Production Reliability Engineer Intern (Rus) <br>
+Production Reliability Engineer Intern <br>
 
 #### OPERATING SYSTEMS, NETWORK TECHNOLOGIES, LOGICAL TASK <br>
 Ответы на задания: https://github.com/SparklingAcidity/DINS_test/blob/main/theoretical_tasks.pdf <br><br>
